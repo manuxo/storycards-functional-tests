@@ -1,0 +1,18 @@
+{
+  "name": "storycards-functional-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
